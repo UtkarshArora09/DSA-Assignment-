@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
