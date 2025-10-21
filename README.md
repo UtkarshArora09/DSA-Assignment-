@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
