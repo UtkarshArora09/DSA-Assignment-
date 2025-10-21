@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -35,8 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0540-single-element-in-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
