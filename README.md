@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/1603-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -39,13 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
