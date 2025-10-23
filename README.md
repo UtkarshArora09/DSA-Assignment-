@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,4 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0125-valid-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshArora09/DSA-Assignment-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
