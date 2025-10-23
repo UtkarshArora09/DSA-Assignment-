@@ -1,0 +1,24 @@
+#include <bits/stdc++.h> 
+using namespace std;
+vector<int> countVowelsConsonantsSpaces(string s,int n){
+    int vowels=0;
+    int consonent=0;
+    int whitespaces=0;
+    for(int i=0;i<n;i++){
+        s[i]=tolower(s[i]);
+    }
+    for(int i=0;i<n;i++){
+        if(s[i]=='a' || s[i]=='e' || s[i]=='i' || s[i]=='o' || s[i]=='u'){
+            vowels++;
+        }
+        else if (s[i]>'a' && s[i]<='z'){
+            consonent++;
+        }
+        else if (s[i]==' '){
+            whitespaces++;
+        }
+    }
+    // cout<<vowels<<" "<<consonent<<" "<<whitespaces;
+    return {vowels,consonent,whitespaces};
+}
+
