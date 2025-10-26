@@ -1,3 +1,4 @@
+// Recursive approach
 class Solution {
 public:
     int helper(vector<int>&nums,int idx,int leftSum,int totalSum){
@@ -14,5 +15,21 @@ public:
             totalSum+=nums[i];
         }
         return helper(nums,0,0,totalSum);
+    }
+};
+
+// Two Pointer approach 
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int n=nums.size();
+        int i=0;
+        for(int j=0;j<n;j++){
+            if(nums[i]!=nums[j]){
+                i++;
+                nums[i]=nums[j];
+            }
+        }
+        return i+1;
     }
 };
